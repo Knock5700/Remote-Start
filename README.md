@@ -5,3 +5,4 @@
 # 5k resistor
 # PC817 Optocoupler 
 # 12v_relay module_20amp
+# 12v_relay module_30amp
