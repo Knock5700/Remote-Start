@@ -3,3 +3,4 @@
 # 2n3904-transistor
 # 1k resistor
 # 5k resistor
+# PC817 Optocoupler 
