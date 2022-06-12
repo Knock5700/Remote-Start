@@ -7,3 +7,4 @@
 # RF-Receiver-Module
 # Remote start by MUS
 # automotive-relay-30amp
+# automotive-relay-20amp
