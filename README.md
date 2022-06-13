@@ -10,13 +10,13 @@
    //you can press button C to horn while remote start is active only
    //you can press button D to horn and light every time
 # Car Remote Start 
-# TIP120 transistor
-# 2n3904-transistor
-# 1k resistor
-# 5k resistor
-# PC817 Optocoupler 
-# RF-Receiver-Module
-# automotive-relay-30amp
-# automotive-relay-20amp
+# TIP120 transistor 1PCS
+# 2n3904-transistor 4PCS
+# 1k resistor 4PCS
+# 5k resistor 5PCS
+# PC817 Optocoupler 4PCS
+# RF-Receiver-Module 1PCS
+# automotive-relay-30amp 3PCS
+# automotive-relay-20amp 3PCS
 # Circuit by MUS
 # Arduino Code
